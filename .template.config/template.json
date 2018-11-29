@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Layla Porter",
+    "classifications": [ "Twilio", "webAPI", "api" ],
+    "identity": "WebApiTemplate.CSharp",
+    "name": "Twilio webAPI Template for ASP.NET Core 2.1",
+    "shortName": "twiliowebapi",
+    "sourceName": "WebApiTemplate",
+    "preferNameDirectory" : true,
+    "tags": {
+        "language": "C#"
+      }
+ }
+ 

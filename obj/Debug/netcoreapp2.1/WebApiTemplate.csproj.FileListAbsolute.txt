@@ -1,0 +1,15 @@
+/Users/lporter/Documents/Repos/WebApiTemplate/bin/Debug/netcoreapp2.1/WebApiTemplate.deps.json
+/Users/lporter/Documents/Repos/WebApiTemplate/bin/Debug/netcoreapp2.1/WebApiTemplate.runtimeconfig.json
+/Users/lporter/Documents/Repos/WebApiTemplate/bin/Debug/netcoreapp2.1/WebApiTemplate.runtimeconfig.dev.json
+/Users/lporter/Documents/Repos/WebApiTemplate/bin/Debug/netcoreapp2.1/WebApiTemplate.dll
+/Users/lporter/Documents/Repos/WebApiTemplate/bin/Debug/netcoreapp2.1/WebApiTemplate.pdb
+/Users/lporter/Documents/Repos/WebApiTemplate/obj/Debug/netcoreapp2.1/WebApiTemplate.csprojAssemblyReference.cache
+/Users/lporter/Documents/Repos/WebApiTemplate/obj/Debug/netcoreapp2.1/WebApiTemplate.csproj.CoreCompileInputs.cache
+/Users/lporter/Documents/Repos/WebApiTemplate/obj/Debug/netcoreapp2.1/WebApiTemplate.RazorAssemblyInfo.cache
+/Users/lporter/Documents/Repos/WebApiTemplate/obj/Debug/netcoreapp2.1/WebApiTemplate.RazorAssemblyInfo.cs
+/Users/lporter/Documents/Repos/WebApiTemplate/obj/Debug/netcoreapp2.1/WebApiTemplate.AssemblyInfoInputs.cache
+/Users/lporter/Documents/Repos/WebApiTemplate/obj/Debug/netcoreapp2.1/WebApiTemplate.AssemblyInfo.cs
+/Users/lporter/Documents/Repos/WebApiTemplate/obj/Debug/netcoreapp2.1/WebApiTemplate.RazorTargetAssemblyInfo.cache
+/Users/lporter/Documents/Repos/WebApiTemplate/obj/Debug/netcoreapp2.1/WebApiTemplate.dll
+/Users/lporter/Documents/Repos/WebApiTemplate/obj/Debug/netcoreapp2.1/WebApiTemplate.pdb
+/Users/lporter/Documents/Repos/WebApiTemplate/obj/Debug/netcoreapp2.1/UserSecretsAssemblyInfo.cs

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WebApiTemplate</id>
+    <version>1.0.0</version>
+    <authors>WebApiTemplate</authors>
+    <owners>WebApiTemplate</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="Microsoft.NETCore.App" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="twilio" version="5.21.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/netcoreapp2.1/appsettings.Development.json" buildAction="Content" />
+      <files include="any/netcoreapp2.1/appsettings.json" buildAction="Content" />
+      <files include="any/netcoreapp2.1/Properties/launchSettings.json" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="/Users/lporter/Documents/Repos/WebApiTemplate/bin/Release/netcoreapp2.1/WebApiTemplate.runtimeconfig.json" target="lib/netcoreapp2.1/WebApiTemplate.runtimeconfig.json" />
+    <file src="/Users/lporter/Documents/Repos/WebApiTemplate/bin/Release/netcoreapp2.1/WebApiTemplate.dll" target="lib/netcoreapp2.1/WebApiTemplate.dll" />
+    <file src="/Users/lporter/Documents/Repos/WebApiTemplate/appsettings.Development.json" target="content/appsettings.Development.json" />
+    <file src="/Users/lporter/Documents/Repos/WebApiTemplate/appsettings.Development.json" target="contentFiles/any/netcoreapp2.1/appsettings.Development.json" />
+    <file src="/Users/lporter/Documents/Repos/WebApiTemplate/appsettings.json" target="content/appsettings.json" />
+    <file src="/Users/lporter/Documents/Repos/WebApiTemplate/appsettings.json" target="contentFiles/any/netcoreapp2.1/appsettings.json" />
+    <file src="/Users/lporter/Documents/Repos/WebApiTemplate/Properties/launchSettings.json" target="content/Properties/launchSettings.json" />
+    <file src="/Users/lporter/Documents/Repos/WebApiTemplate/Properties/launchSettings.json" target="contentFiles/any/netcoreapp2.1/Properties/launchSettings.json" />
+  </files>
+</package>
